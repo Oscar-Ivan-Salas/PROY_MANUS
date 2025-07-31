@@ -1,0 +1,138 @@
+{
+  "roles": {
+    "admin": {
+      "permissions": {
+        "admin": true,
+        "execute": true,
+        "create": true,
+        "rename": true,
+        "modify": true,
+        "delete": true,
+        "share": true,
+        "download": true
+      },
+      "scope": ".",
+      "description": "Administrador con acceso completo"
+    },
+    "investigador": {
+      "permissions": {
+        "admin": false,
+        "execute": false,
+        "create": true,
+        "rename": true,
+        "modify": true,
+        "delete": false,
+        "share": true,
+        "download": true
+      },
+      "scope": ".",
+      "description": "Investigador con permisos de lectura/escritura"
+    },
+    "lector": {
+      "permissions": {
+        "admin": false,
+        "execute": false,
+        "create": false,
+        "rename": false,
+        "modify": false,
+        "delete": false,
+        "share": false,
+        "download": true
+      },
+      "scope": ".",
+      "description": "Solo lectura y descarga"
+    }
+  },
+  "policies": {
+    "password_policy": {
+      "min_length": 8,
+      "require_uppercase": true,
+      "require_lowercase": true,
+      "require_numbers": true,
+      "require_special": true
+    },
+    "session_policy": {
+      "timeout_minutes": 120,
+      "max_concurrent_sessions": 3,
+      "require_https": false
+    },
+    "file_policy": {
+      "max_upload_size_mb": 500,
+      "allowed_extensions": [
+        ".csv",
+        ".xlsx",
+        ".xls",
+        ".json",
+        ".txt",
+        ".pdf",
+        ".docx",
+        ".doc",
+        ".pptx",
+        ".ppt",
+        ".py",
+        ".r",
+        ".sql",
+        ".md",
+        ".html",
+        ".png",
+        ".jpg",
+        ".jpeg",
+        ".gif",
+        ".svg"
+      ],
+      "blocked_extensions": [
+        ".exe",
+        ".bat",
+        ".sh",
+        ".ps1",
+        ".cmd"
+      ]
+    },
+    "access_policy": {
+      "max_failed_attempts": 5,
+      "lockout_duration_minutes": 30,
+      "log_all_access": true
+    }
+  },
+  "report": {
+    "timestamp": "2025-07-27T21:07:52.101668",
+    "security_status": "configured",
+    "users_configured": true,
+    "roles_defined": true,
+    "policies_active": true,
+    "recommendations": [
+      "Cambiar contrase\u00f1a por defecto en producci\u00f3n",
+      "Habilitar HTTPS para acceso remoto",
+      "Configurar backup autom\u00e1tico de la base de datos",
+      "Revisar logs de acceso regularmente",
+      "Actualizar FileBrowser peri\u00f3dicamente"
+    ],
+    "next_review_date": "2025-08-26T21:07:52.101686"
+  },
+  "cloud_config": {
+    "authentication": {
+      "oauth2_providers": [
+        "google",
+        "github",
+        "microsoft"
+      ],
+      "ldap_integration": true,
+      "multi_factor_auth": true
+    },
+    "encryption": {
+      "data_at_rest": true,
+      "data_in_transit": true,
+      "key_management": "cloud_kms"
+    },
+    "network_security": {
+      "vpc_isolation": true,
+      "firewall_rules": true,
+      "ddos_protection": true
+    },
+    "compliance": {
+      "gdpr_compliant": true,
+      "audit_logging": true,
+      "data_retention_policy": "365_days"
+    }
+  }
+}

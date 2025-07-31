@@ -1,0 +1,60 @@
+{
+  "datasets_generados": [
+    {
+      "nombre": "encuesta_estudiantes.csv",
+      "descripcion": "Encuesta a 500 estudiantes universitarios",
+      "filas": 500,
+      "columnas": 12,
+      "casos_uso": [
+        "Análisis descriptivo",
+        "Correlaciones",
+        "Regresión"
+      ]
+    },
+    {
+      "nombre": "ventas_empresa.csv",
+      "descripcion": "Datos de ventas de una empresa durante un año",
+      "filas": 1000,
+      "columnas": 10,
+      "casos_uso": [
+        "Análisis temporal",
+        "ANOVA",
+        "Clustering"
+      ]
+    },
+    {
+      "nombre": "experimento_tratamiento.csv",
+      "descripcion": "Experimento científico con grupos de control y tratamiento",
+      "filas": 200,
+      "columnas": 11,
+      "casos_uso": [
+        "Pruebas t",
+        "ANOVA",
+        "Análisis de efectividad"
+      ]
+    },
+    {
+      "nombre": "datos_problematicos.csv",
+      "descripcion": "Datos con problemas comunes para probar validación",
+      "filas": 300,
+      "columnas": 10,
+      "casos_uso": [
+        "Validación de datos",
+        "Limpieza",
+        "Detección de errores"
+      ]
+    },
+    {
+      "nombre": "datos_ejemplo.json",
+      "descripcion": "Muestra de datos en formato JSON",
+      "filas": 50,
+      "columnas": 12,
+      "casos_uso": [
+        "Prueba de carga JSON",
+        "Análisis básico"
+      ]
+    }
+  ],
+  "total_registros": 2050,
+  "fecha_generacion": "2025-07-27T21:16:39.913881"
+}

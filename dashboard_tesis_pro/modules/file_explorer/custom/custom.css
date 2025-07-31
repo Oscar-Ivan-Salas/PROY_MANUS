@@ -1,0 +1,218 @@
+/* Dashboard Tesis Pro - Explorador de Archivos */
+/* Inspirado en VSCode */
+
+:root {
+  --primary-color: #2196F3;
+  --secondary-color: #1976D2;
+  --accent-color: #FFC107;
+  --background-color: #1E1E1E;
+  --surface-color: #252526;
+  --text-primary: #CCCCCC;
+  --text-secondary: #969696;
+  --border-color: #3E3E42;
+  --success-color: #4CAF50;
+  --warning-color: #FF9800;
+  --error-color: #F44336;
+}
+
+/* Header personalizado */
+.header {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color)) !important;
+  border-bottom: 2px solid var(--accent-color);
+}
+
+.header .title {
+  color: white !important;
+  font-weight: 600;
+  font-size: 1.2em;
+}
+
+/* Sidebar */
+.sidebar {
+  background-color: var(--surface-color) !important;
+  border-right: 1px solid var(--border-color);
+}
+
+/* Iconos de archivos personalizados */
+.file-icon {
+  margin-right: 8px;
+}
+
+/* Iconos por tipo de archivo */
+.file[data-type="pdf"] .file-icon::before {
+  content: "📄";
+  color: #FF5722;
+}
+
+.file[data-type="xlsx"], .file[data-type="xls"] .file-icon::before {
+  content: "📊";
+  color: #4CAF50;
+}
+
+.file[data-type="csv"] .file-icon::before {
+  content: "📈";
+  color: #2196F3;
+}
+
+.file[data-type="txt"] .file-icon::before {
+  content: "📝";
+  color: #9E9E9E;
+}
+
+.file[data-type="py"] .file-icon::before {
+  content: "🐍";
+  color: #FFD43B;
+}
+
+.file[data-type="r"] .file-icon::before {
+  content: "📊";
+  color: #276DC3;
+}
+
+.file[data-type="json"] .file-icon::before {
+  content: "⚙️";
+  color: #FFC107;
+}
+
+.file[data-type="md"] .file-icon::before {
+  content: "📋";
+  color: #2196F3;
+}
+
+.file[data-type="html"] .file-icon::before {
+  content: "🌐";
+  color: #E34F26;
+}
+
+.file[data-type="jpg"], .file[data-type="png"], .file[data-type="gif"] .file-icon::before {
+  content: "🖼️";
+  color: #9C27B0;
+}
+
+/* Carpetas por categoría */
+.folder[data-name*="datos"] .file-icon::before,
+.folder[data-name*="data"] .file-icon::before {
+  content: "📊";
+  color: var(--primary-color);
+}
+
+.folder[data-name*="analisis"] .file-icon::before,
+.folder[data-name*="analysis"] .file-icon::before {
+  content: "🔬";
+  color: var(--success-color);
+}
+
+.folder[data-name*="informes"] .file-icon::before,
+.folder[data-name*="reports"] .file-icon::before {
+  content: "📋";
+  color: var(--warning-color);
+}
+
+.folder[data-name*="documentos"] .file-icon::before,
+.folder[data-name*="docs"] .file-icon::before {
+  content: "📚";
+  color: #9C27B0;
+}
+
+.folder[data-name*="scripts"] .file-icon::before,
+.folder[data-name*="codigo"] .file-icon::before {
+  content: "⚡";
+  color: #FFD43B;
+}
+
+.folder[data-name*="resultados"] .file-icon::before,
+.folder[data-name*="results"] .file-icon::before {
+  content: "🎯";
+  color: var(--error-color);
+}
+
+/* Botones personalizados */
+.button {
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.button.primary {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  border: none;
+  color: white;
+}
+
+/* Lista de archivos */
+.file-list {
+  background-color: var(--background-color);
+}
+
+.file-item:hover {
+  background-color: var(--surface-color);
+  border-left: 3px solid var(--primary-color);
+}
+
+/* Breadcrumb */
+.breadcrumb {
+  background-color: var(--surface-color);
+  border-bottom: 1px solid var(--border-color);
+  padding: 12px 16px;
+}
+
+.breadcrumb a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  color: var(--secondary-color);
+  text-decoration: underline;
+}
+
+/* Toolbar */
+.toolbar {
+  background-color: var(--surface-color);
+  border-bottom: 1px solid var(--border-color);
+  padding: 8px 16px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .header .title {
+    font-size: 1em;
+  }
+  
+  .file-icon::before {
+    font-size: 1.2em;
+  }
+}
+
+/* Animaciones */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.file-item {
+  animation: fadeIn 0.3s ease;
+}
+
+/* Scrollbar personalizado */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary-color);
+}
+

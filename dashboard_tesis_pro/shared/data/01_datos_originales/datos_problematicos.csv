@@ -1,0 +1,301 @@
+ID ,Edad_Texto,Precio$,Fecha_Inconsistente,Categoría,Valor_Con_Outliers,Campo_Con_Muchos_Nulos,Columna_Muy_Larga_Con_Nombre_Poco_Descriptivo_Que_Debería_Ser_Más_Corta,X1,
+ID_001,56,191.60,07-07-2025,tipo a,52.79,Opción 2,valor,4,columna_sin_nombre
+ID_002,61,10.77,2025/02/17,tipo a,60.11,,valor,1,columna_sin_nombre
+ID_003,44,"148,10",30/10/2024,TIPO A,51.42,,valor,3,columna_sin_nombre
+ID_004,38,23.13,14/07/2025,tipo a,49.65,Opción 3,valor,4,columna_sin_nombre
+ID_005,24,"834,86",2025/05/08,tipo a,37.35,,valor,2,columna_sin_nombre
+ID_006,46,777.38,31-10-2024,Tipo_A,60.92,,valor,4,columna_sin_nombre
+ID_007,62,"830,45",2024/11/18,Tipo_A,40.47,Opción 1,valor,4,columna_sin_nombre
+ID_008,18,15.47,2025/05/08,TIPO A,39.52,,valor,2,columna_sin_nombre
+ID_009,56,915.81,02/11/2024,Tipo A,48.22,,valor,4,columna_sin_nombre
+ID_010,39,"477,49",2025-03-19,TipoA,45.9,,valor,3,columna_sin_nombre
+ID_011,44,"433,27",30-01-2025,Tipo A,50.92,Opción 1,valor,3,columna_sin_nombre
+ID_012,60,943.43,27/11/2024,Tipo_A,30.12,,valor,1,columna_sin_nombre
+ID_013,70,"805,64",15/10/2024,TIPO A,42.26,,valor,1,columna_sin_nombre
+ID_014,74,"10,52",11-11-2024,TIPO A,46.4,Opción 3,valor,2,columna_sin_nombre
+ID_015,61,"176,61",2024/12/07,Tipo A,49.85,,valor,3,columna_sin_nombre
+ID_016,66,"997,76",26/07/2025,Tipo_A,49.73,Opción 1,valor,1,columna_sin_nombre
+ID_017,36,"535,63",2025/01/11,Tipo_A,47.86,,valor,1,columna_sin_nombre
+ID_018,69,404.84,2025-03-06,Tipo A,43.11,Opción 1,valor,3,columna_sin_nombre
+ID_019,37,228.04,2025/03/03,Tipo_A,48.57,,valor,3,columna_sin_nombre
+ID_020,45,216.98,03-10-2024,Tipo_A,56.17,,valor,4,columna_sin_nombre
+ID_021,77,996.29,2025/06/21,TIPO A,43.99,,valor,4,columna_sin_nombre
+ID_022,41,888.89,2025/04/06,Tipo_A,41.53,,valor,3,columna_sin_nombre
+ID_023,65,"666,87",24/08/2024,TIPO A,38.09,Opción 1,valor,4,columna_sin_nombre
+ID_024,37,746.73,2025-03-22,Tipo_A,56.57,,valor,2,columna_sin_nombre
+ID_025,63,"979,10",06-11-2024,TIPO A,50.13,,valor,1,columna_sin_nombre
+ID_026,77,"287,96",2025/06/09,Tipo A,64.54,,valor,2,columna_sin_nombre
+ID_027,70,750.24,2024-08-13,TipoA,53.36,,valor,4,columna_sin_nombre
+ID_028,40,"490,43",17/12/2024,tipo a,50.51,Opción 2,valor,4,columna_sin_nombre
+ID_029,64,148.68,2024/10/28,Tipo A,54.19,Opción 2,valor,3,columna_sin_nombre
+ID_030,67,914.11,2024/09/18,TipoA,42.72,Opción 2,valor,4,columna_sin_nombre
+ID_031,31,"344,62",2024/09/09,TIPO A,73.15,,valor,2,columna_sin_nombre
+ID_032, 66 ,"824,37",2025-04-18,TipoA,31.33,,valor,3,columna_sin_nombre
+ID_033,21,"202,44",07-08-2024,Tipo_A,36.92,Opción 2,valor,1,columna_sin_nombre
+ID_034,79,"699,01",31/05/2025,Tipo A,30.09,Opción 2,valor,4,columna_sin_nombre
+ID_035,42,287.13,17-01-2025,TipoA,36.73,,valor,1,columna_sin_nombre
+ID_036, 39 ,"124,91",25/04/2025,Tipo_A,68.44,Opción 2,valor,4,columna_sin_nombre
+ID_037,38,"181,47",05/07/2025,tipo a,50.02,,valor,4,columna_sin_nombre
+ID_038,41,944.81,18-02-2025,Tipo_A,57.56,,valor,4,columna_sin_nombre
+ID_039,50,550.16,2024-09-08,Tipo A,38.55,Opción 2,valor,2,columna_sin_nombre
+ID_040, 78 ,"686,18",2024-11-06,tipo a,55.91,,valor,3,columna_sin_nombre
+ID_041,58,"695,96",2025-05-14,Tipo_A,54.49,,valor,4,columna_sin_nombre
+ID_042,52,"418,49",2025/04/23,TipoA,49.21,,valor,3,columna_sin_nombre
+ID_043,42,383.95,2025/05/05,Tipo A,56.82,Opción 1,valor,3,columna_sin_nombre
+ID_044,29,957.23,06-06-2025,tipo a,46.9,,valor,3,columna_sin_nombre
+ID_045,29,675.79,2025/02/27,Tipo A,68.14,,valor,2,columna_sin_nombre
+ID_046,61,"840,10",10/02/2025,Tipo A,54.05,,valor,1,columna_sin_nombre
+ID_047, 46 ,"986,77",10/09/2024,Tipo_A,52.9,,valor,4,columna_sin_nombre
+ID_048,48,384.21,07/01/2025,TIPO A,48.13,,valor,1,columna_sin_nombre
+ID_049,67,"65,74",14-09-2024,Tipo A,58.4,,valor,4,columna_sin_nombre
+ID_050, 66 ,"533,09",2025/05/31,TipoA,61.33,Opción 1,valor,4,columna_sin_nombre
+ID_051,71,"919,92",2025/03/03,Tipo A,72.76,,valor,1,columna_sin_nombre
+ID_052,71,"902,15",16/07/2025,Tipo_A,54.06,,valor,2,columna_sin_nombre
+ID_053,45,"394,39",2025/06/30,TipoA,53.42,,valor,4,columna_sin_nombre
+ID_054,65,911.82,07-05-2025,TipoA,68.76,,valor,4,columna_sin_nombre
+ID_055,47,"54,77",12/10/2024,Tipo A,53.41,,valor,1,columna_sin_nombre
+ID_056,39,"573,39",14-04-2025,Tipo A,498.62,Opción 1,valor,1,columna_sin_nombre
+ID_057,48,914.03,2025-06-05,tipo a,45.5,Opción 3,valor,1,columna_sin_nombre
+ID_058,30,879.44,2025/06/24,tipo a,56.23,,valor,3,columna_sin_nombre
+ID_059,76,818.22,18-12-2024,Tipo A,44.37,,valor,2,columna_sin_nombre
+ID_060,19,904.12,14/12/2024,tipo a,75.39,,valor,3,columna_sin_nombre
+ID_061,68,354.77,2024/08/27,tipo a,32.97,,valor,1,columna_sin_nombre
+ID_062,19,"637,07",2025-04-08,TIPO A,49.44,,valor,4,columna_sin_nombre
+ID_063,21,"897,82",2025/04/26,tipo a,36.34,,valor,2,columna_sin_nombre
+ID_064, 78 ,553.23,16/07/2025,tipo a,55.04,,valor,3,columna_sin_nombre
+ID_065, 26 ,486.33,02/06/2025,TIPO A,58.51,Opción 3,valor,3,columna_sin_nombre
+ID_066,73,"622,07",24/12/2024,TipoA,43.8,Opción 3,valor,3,columna_sin_nombre
+ID_067,20,516.56,27/10/2024,TIPO A,41.29,Opción 3,valor,1,columna_sin_nombre
+ID_068,34,"334,22",2025-03-05,Tipo_A,47.73,,valor,1,columna_sin_nombre
+ID_069,62,588.36,2025/04/08,Tipo A,29.92,,valor,4,columna_sin_nombre
+ID_070,51,"503,27",2024-10-12,TipoA,60.67,Opción 2,valor,3,columna_sin_nombre
+ID_071,79,181.64,23-11-2024,TIPO A,579.75,,valor,2,columna_sin_nombre
+ID_072,73,822.65,2025/01/06,tipo a,51.45,,valor,2,columna_sin_nombre
+ID_073,43,431.18,2025/04/06,Tipo A,34.76,Opción 1,valor,3,columna_sin_nombre
+ID_074, 20 ,"343,24",2025/03/12,tipo a,57.98,,valor,1,columna_sin_nombre
+ID_075, 54 ,"125,53",20-06-2025,TIPO A,55.77,,valor,2,columna_sin_nombre
+ID_076,70,"938,96",2025-06-23,Tipo_A,47.97,Opción 1,valor,1,columna_sin_nombre
+ID_077,31,"826,88",23-08-2024,tipo a,47.26,,valor,4,columna_sin_nombre
+ID_078,56,900.67,09-08-2024,Tipo A,56.08,,valor,3,columna_sin_nombre
+ID_079,19,907.41,11/01/2025,TIPO A,35.21,,valor,1,columna_sin_nombre
+ID_080,50,894.95,2025-06-20,Tipo A,61.44,,valor,1,columna_sin_nombre
+ID_081,79,"716,92",2024-09-01,TipoA,47.3,Opción 3,valor,4,columna_sin_nombre
+ID_082,29,22.08,09/10/2024,TIPO A,40.21,,valor,2,columna_sin_nombre
+ID_083,27,"235,08",16/08/2024,TIPO A,52.8,,valor,3,columna_sin_nombre
+ID_084,57,932.80,2024-09-07,TipoA,38.75,Opción 3,valor,2,columna_sin_nombre
+ID_085,26,739.08,26-12-2024,Tipo A,75.39,Opción 1,valor,2,columna_sin_nombre
+ID_086,69,"607,68",2024-11-26,tipo a,55.24,,valor,2,columna_sin_nombre
+ID_087,44,"457,70",29-07-2024,TIPO A,54.72,Opción 1,valor,1,columna_sin_nombre
+ID_088,46,"635,94",09-06-2025,Tipo A,34.7,Opción 2,valor,2,columna_sin_nombre
+ID_089,45,"192,62",2024-12-16,TIPO A,51.98,Opción 1,valor,1,columna_sin_nombre
+ID_090,47,"591,58",03/02/2025,tipo a,48.56,,valor,2,columna_sin_nombre
+ID_091,55,"111,95",03-06-2025,TIPO A,35.92,,valor,3,columna_sin_nombre
+ID_092,72,718.81,2024-09-10,TIPO A,42.22,,valor,1,columna_sin_nombre
+ID_093,25,"801,92",2025/04/22,tipo a,62.5,,valor,2,columna_sin_nombre
+ID_094,38,"330,75",01-09-2024,Tipo A,54.2,Opción 1,valor,3,columna_sin_nombre
+ID_095,53,706.91,2025/01/12,TIPO A,42.96,Opción 1,valor,1,columna_sin_nombre
+ID_096,55,369.13,2024/08/07,tipo a,35.92,Opción 2,valor,2,columna_sin_nombre
+ID_097,73,"476,35",2025-04-04,Tipo A,71.55,Opción 3,valor,2,columna_sin_nombre
+ID_098,21,901.57,08-10-2024,tipo a,56.72,,valor,1,columna_sin_nombre
+ID_099, 55 ,"411,20",13-05-2025,TipoA,66.21,Opción 1,valor,1,columna_sin_nombre
+ID_100,43,"773,20",2025/03/20,TIPO A,65.7,Opción 3,valor,2,columna_sin_nombre
+101,46,"295,81",06-04-2025,TIPO A,48.72,Opción 1,valor,2,columna_sin_nombre
+102,53,170.39,25/08/2024,TIPO A,55.55,,valor,2,columna_sin_nombre
+103,19,84.39,2024-12-23,TIPO A,40.55,Opción 3,valor,2,columna_sin_nombre
+104,55,"367,36",2024-09-26,Tipo A,73.03,,valor,3,columna_sin_nombre
+105,29,874.22,2025-03-01,TipoA,58.34,,valor,3,columna_sin_nombre
+106,76,"944,62",2024/11/04,Tipo A,54.59,,valor,2,columna_sin_nombre
+107, 24 ,"700,45",2025/02/02,tipo a,63.57,Opción 3,valor,2,columna_sin_nombre
+108,76,46.64,2025/04/11,TipoA,46.41,,valor,4,columna_sin_nombre
+109,43,"74,70",2025-07-24,Tipo A,51.45,,valor,2,columna_sin_nombre
+110,72,"990,44",2024-11-01,tipo a,67.14,,valor,3,columna_sin_nombre
+111,63,"769,52",2024/11/25,Tipo A,33.95,Opción 3,valor,3,columna_sin_nombre
+112,37,"246,39",2025/03/08,tipo a,55.68,Opción 1,valor,4,columna_sin_nombre
+113,18,"54,65",2024/08/18,Tipo_A,55.63,,valor,4,columna_sin_nombre
+114,28,989.29,10-11-2024,Tipo_A,34.67,Opción 3,valor,1,columna_sin_nombre
+115,63,"184,76",29/11/2024,TIPO A,54.69,Opción 1,valor,3,columna_sin_nombre
+116,37,"182,16",31/01/2025,Tipo A,55.08,,valor,2,columna_sin_nombre
+117,30,541.60,05/08/2024,TIPO A,46.37,,valor,1,columna_sin_nombre
+118,51,811.42,09-11-2024,TIPO A,55.84,Opción 2,valor,4,columna_sin_nombre
+119,76,"500,92",2024/09/15,TipoA,59.07,,valor,4,columna_sin_nombre
+120,44,736.57,2024/08/26,Tipo_A,50.36,,valor,1,columna_sin_nombre
+121,30,700.50,18-01-2025,Tipo_A,48.33,,valor,3,columna_sin_nombre
+122,35,833.81,06/10/2024,TipoA,51.47,,valor,1,columna_sin_nombre
+123,57,637.67,2025/02/15,TIPO A,52.49,,valor,4,columna_sin_nombre
+124,32,111.48,2024/08/10,tipo a,65.77,Opción 2,valor,1,columna_sin_nombre
+125,27,"67,34",30/12/2024,TipoA,70.2,,valor,1,columna_sin_nombre
+126,28,378.12,31-05-2025,tipo a,42.6,,valor,4,columna_sin_nombre
+127,34,855.67,2024-10-16,TIPO A,61.22,,valor,4,columna_sin_nombre
+128,73,"944,18",05/05/2025,TIPO A,63.11,,valor,1,columna_sin_nombre
+129,75,"237,66",2024-09-11,Tipo A,55.02,,valor,4,columna_sin_nombre
+130,63,"100,25",01/07/2025,tipo a,67.21,,valor,4,columna_sin_nombre
+131, 61 ,921.64,12-06-2025,Tipo A,35.74,Opción 3,valor,2,columna_sin_nombre
+132,71,"594,36",2025-05-25,Tipo A,560.62,Opción 2,valor,2,columna_sin_nombre
+133,64,298.75,2024/10/12,Tipo A,49.76,Opción 1,valor,2,columna_sin_nombre
+134, 49 ,"487,53",17/02/2025,tipo a,44.29,,valor,1,columna_sin_nombre
+135,58,"42,87",16/04/2025,tipo a,59.89,Opción 1,valor,4,columna_sin_nombre
+136,28,897.26,16-05-2025,Tipo A,56.23,,valor,2,columna_sin_nombre
+137,45,346.06,21-07-2025,Tipo_A,71.56,,valor,3,columna_sin_nombre
+138,58,444.22,16-07-2025,Tipo_A,61.72,,valor,2,columna_sin_nombre
+139,36,"343,53",2025-03-31,TIPO A,36.89,,valor,4,columna_sin_nombre
+140,27,"228,36",2025-01-02,Tipo_A,61.98,,valor,2,columna_sin_nombre
+141,78,632.48,2025/07/08,tipo a,52.24,,valor,4,columna_sin_nombre
+142,53,"901,69",27-11-2024,tipo a,60.47,Opción 1,valor,2,columna_sin_nombre
+143,57,243.43,2025/04/19,tipo a,53.24,Opción 1,valor,3,columna_sin_nombre
+144,31,365.64,2024-09-05,TIPO A,47.09,,valor,3,columna_sin_nombre
+145, 54 ,592.53,2025-02-14,TIPO A,48.5,,valor,4,columna_sin_nombre
+146,47,454.94,2025-07-27,Tipo_A,59.96,,valor,3,columna_sin_nombre
+147,54,783.97,2024/09/19,Tipo_A,44.84,Opción 1,valor,4,columna_sin_nombre
+148, 43 ,"130,89",25-11-2024,TipoA,50.44,,valor,4,columna_sin_nombre
+149,59,485.10,24/03/2025,Tipo A,59.16,,valor,2,columna_sin_nombre
+150,40,"148,25",2024/09/30,tipo a,53.46,,valor,2,columna_sin_nombre
+151, 38 ,"675,88",23-07-2025,tipo a,48.97,,valor,3,columna_sin_nombre
+152,57,121.98,2024-10-12,TIPO A,49.73,,valor,4,columna_sin_nombre
+153,22,"355,09",17/01/2025,Tipo A,46.65,Opción 2,valor,1,columna_sin_nombre
+154,55,670.92,2025-05-07,Tipo A,52.06,,valor,1,columna_sin_nombre
+155,41,"652,58",2025/05/24,tipo a,65.95,,valor,1,columna_sin_nombre
+156,49,"235,00",2024/08/07,tipo a,41.53,,valor,1,columna_sin_nombre
+157,43,848.70,19/12/2024,Tipo A,36.1,,valor,3,columna_sin_nombre
+158,60,814.86,07-07-2025,TIPO A,335.46,,valor,4,columna_sin_nombre
+159,32,"927,76",2024-10-24,TIPO A,49.66,Opción 3,valor,1,columna_sin_nombre
+160,64,"585,12",20/02/2025,tipo a,40.5,,valor,1,columna_sin_nombre
+161,47,"684,31",19-02-2025,Tipo A,34.07,,valor,3,columna_sin_nombre
+162,71,52.98,09-03-2025,TipoA,54.4,Opción 1,valor,3,columna_sin_nombre
+163,27,367.16,2025/02/26,Tipo A,57.47,,valor,4,columna_sin_nombre
+164,56,104.58,2024-11-28,Tipo A,42.99,,valor,3,columna_sin_nombre
+165, 38 ,33.40,18-02-2025,tipo a,57.34,Opción 3,valor,3,columna_sin_nombre
+166,38,"448,29",29-11-2024,Tipo_A,36.48,,valor,2,columna_sin_nombre
+167,59,"774,90",2024-12-11,Tipo_A,44.18,,valor,4,columna_sin_nombre
+168,30,76.94,2025/07/01,TipoA,39.85,,valor,3,columna_sin_nombre
+169,71,"462,29",20-03-2025,Tipo_A,56.95,,valor,4,columna_sin_nombre
+170,39,"958,05",14-10-2024,Tipo A,69.47,,valor,2,columna_sin_nombre
+171,74,"11,22",2025/03/14,TIPO A,39.08,,valor,4,columna_sin_nombre
+172,18,525.75,2024/12/09,Tipo A,46.84,,valor,4,columna_sin_nombre
+173, 51 ,"126,47",03/12/2024,Tipo A,31.64,,valor,4,columna_sin_nombre
+174,35,"920,20",2024/08/20,TipoA,55.08,,valor,1,columna_sin_nombre
+175,59,631.67,20/02/2025,TIPO A,43.32,,valor,2,columna_sin_nombre
+176,44,352.64,14/11/2024,Tipo A,59.92,,valor,1,columna_sin_nombre
+177,53,147.81,2024-12-02,Tipo_A,24.74,,valor,4,columna_sin_nombre
+178, 38 ,143.81,2025/07/16,Tipo_A,50.64,,valor,2,columna_sin_nombre
+179,46,"644,42",16/11/2024,Tipo_A,36.88,Opción 1,valor,2,columna_sin_nombre
+180,79,67.20,2025-05-06,TIPO A,34.37,,valor,2,columna_sin_nombre
+181,68,694.70,10-11-2024,Tipo A,42.67,,valor,2,columna_sin_nombre
+182,56,"794,17",2024-11-14,TIPO A,42.98,,valor,2,columna_sin_nombre
+183,24,"771,61",27-05-2025,TipoA,44.54,Opción 1,valor,2,columna_sin_nombre
+184,67,"206,87",2025/02/18,Tipo A,53.92,,valor,3,columna_sin_nombre
+185,38,"107,10",13/01/2025,Tipo_A,57.32,,valor,1,columna_sin_nombre
+186,55,"956,66",2025-01-17,Tipo A,37.62,,valor,4,columna_sin_nombre
+187,46,"931,02",2024-12-08,Tipo_A,64.11,,valor,3,columna_sin_nombre
+188, 34 ,"523,22",2025-05-02,TipoA,62.14,,valor,1,columna_sin_nombre
+189,62,"114,31",2025-03-02,tipo a,52.36,,valor,3,columna_sin_nombre
+190,45,418.01,2024/08/10,tipo a,49.82,Opción 1,valor,3,columna_sin_nombre
+191,25,"628,42",2025/06/09,Tipo_A,56.42,Opción 2,valor,2,columna_sin_nombre
+192,38,"479,59",2024-11-01,Tipo_A,62.25,Opción 1,valor,4,columna_sin_nombre
+193,35,"378,45",26/03/2025,Tipo A,44.89,,valor,3,columna_sin_nombre
+194, 63 ,992.49,18-12-2024,Tipo A,42.4,,valor,1,columna_sin_nombre
+195,30,978.61,02-12-2024,Tipo_A,48.53,Opción 1,valor,1,columna_sin_nombre
+196,35,"688,45",08-06-2025,TIPO A,46.36,,valor,2,columna_sin_nombre
+197,60,745.99,01-04-2025,TipoA,51.63,,valor,4,columna_sin_nombre
+198,59,813.63,2025-07-25,Tipo_A,41.44,,valor,2,columna_sin_nombre
+199,51,559.53,09-12-2024,TIPO A,40.13,,valor,2,columna_sin_nombre
+200,43,"834,35",29/03/2025,TipoA,64.87,,valor,3,columna_sin_nombre
+REG201,48,877.88,18-03-2025,TipoA,62.11,Opción 2,valor,1,columna_sin_nombre
+REG202,71,13.19,2024/11/10,Tipo A,56.19,,valor,3,columna_sin_nombre
+REG203,21,"726,17",23-01-2025,Tipo_A,70.62,,valor,3,columna_sin_nombre
+REG204,77,"503,27",2025-02-26,Tipo_A,62.08,,valor,3,columna_sin_nombre
+REG205,53,"445,80",2025-01-26,Tipo A,49.17,,valor,3,columna_sin_nombre
+REG206,74,"646,14",2024/11/10,TIPO A,48.78,,valor,4,columna_sin_nombre
+REG207,28,"950,81",28/05/2025,tipo a,55.12,,valor,2,columna_sin_nombre
+REG208,34,"784,76",23/06/2025,tipo a,41.45,,valor,1,columna_sin_nombre
+REG209,37,"463,61",19/05/2025,Tipo_A,509.99,Opción 2,valor,4,columna_sin_nombre
+REG210,61,753.86,2025-06-22,Tipo_A,51.46,Opción 3,valor,3,columna_sin_nombre
+REG211,72,"257,05",27-01-2025,tipo a,45.2,,valor,3,columna_sin_nombre
+REG212,37,"566,37",2025-01-31,TIPO A,57.14,,valor,2,columna_sin_nombre
+REG213,49,963.76,2025-01-10,tipo a,54.87,,valor,1,columna_sin_nombre
+REG214,35,"727,90",26-09-2024,TIPO A,55.55,,valor,1,columna_sin_nombre
+REG215,78,"159,73",04/09/2024,Tipo A,39.84,,valor,1,columna_sin_nombre
+REG216,56,"548,10",11/01/2025,Tipo A,50.62,Opción 2,valor,4,columna_sin_nombre
+REG217,74,"467,67",25-03-2025,Tipo_A,50.21,,valor,4,columna_sin_nombre
+REG218,68,"209,35",08/07/2025,Tipo_A,42.72,,valor,4,columna_sin_nombre
+REG219,57,880.79,10/02/2025,Tipo_A,49.39,,valor,4,columna_sin_nombre
+REG220,52,660.21,31-01-2025,TIPO A,42.64,Opción 2,valor,4,columna_sin_nombre
+REG221,41,"759,91",17-05-2025,Tipo A,57.65,Opción 2,valor,4,columna_sin_nombre
+REG222,19,858.61,05-04-2025,Tipo A,48.08,Opción 1,valor,4,columna_sin_nombre
+REG223,77,320.03,24-11-2024,Tipo A,50.24,,valor,3,columna_sin_nombre
+REG224,70,"638,32",17/04/2025,TIPO A,64.12,Opción 1,valor,3,columna_sin_nombre
+REG225, 50 ,"824,73",17-03-2025,TipoA,37.41,Opción 1,valor,3,columna_sin_nombre
+REG226,19,"464,67",14/12/2024,TIPO A,39.91,,valor,4,columna_sin_nombre
+REG227,38,96.31,2025/02/15,tipo a,43.37,,valor,4,columna_sin_nombre
+REG228,39,808.13,15-08-2024,Tipo A,29.7,,valor,2,columna_sin_nombre
+REG229,52,"78,94",2025/01/08,Tipo_A,47.76,Opción 3,valor,3,columna_sin_nombre
+REG230, 38 ,310.91,2025/03/08,Tipo_A,44.06,,valor,4,columna_sin_nombre
+REG231,30,654.26,21-12-2024,TIPO A,48.67,,valor,4,columna_sin_nombre
+REG232,79,"977,03",2025-05-05,Tipo A,40.25,Opción 2,valor,3,columna_sin_nombre
+REG233,39,299.30,2024-10-26,Tipo_A,40.65,Opción 3,valor,4,columna_sin_nombre
+REG234,31,"129,04",2024-10-15,Tipo A,60.86,,valor,3,columna_sin_nombre
+REG235,70,306.92,13-01-2025,Tipo_A,38.02,,valor,4,columna_sin_nombre
+REG236,46,"292,44",2024/11/03,tipo a,37.27,,valor,4,columna_sin_nombre
+REG237,37,493.49,2025-01-08,Tipo A,59.75,,valor,1,columna_sin_nombre
+REG238,40,"323,78",11-06-2025,Tipo A,55.01,Opción 2,valor,4,columna_sin_nombre
+REG239,38,595.78,18-03-2025,Tipo_A,47.54,,valor,2,columna_sin_nombre
+REG240,41,746.16,02/05/2025,Tipo A,415.68,Opción 2,valor,2,columna_sin_nombre
+REG241,44,284.05,2025-04-26,Tipo A,44.37,,valor,1,columna_sin_nombre
+REG242,30,"855,59",14-03-2025,Tipo_A,72.78,,valor,1,columna_sin_nombre
+REG243,70,"517,54",2024-12-07,TipoA,58.5,,valor,3,columna_sin_nombre
+REG244, 58 ,"678,67",29-08-2024,TipoA,44.25,,valor,4,columna_sin_nombre
+REG245,25,716.89,2024-11-30,TipoA,568.79,,valor,3,columna_sin_nombre
+REG246, 40 ,"872,88",07/09/2024,Tipo A,54.2,,valor,3,columna_sin_nombre
+REG247,64,"753,67",27-11-2024,Tipo A,51.69,,valor,3,columna_sin_nombre
+REG248, 30 ,639.74,2025/06/19,TIPO A,54.42,Opción 2,valor,1,columna_sin_nombre
+REG249,55,991.35,02-11-2024,TIPO A,76.78,Opción 1,valor,3,columna_sin_nombre
+REG250,48,"818,56",24/10/2024,TIPO A,45.14,,valor,3,columna_sin_nombre
+REG251,26,"791,10",2024/08/08,TIPO A,71.91,Opción 3,valor,4,columna_sin_nombre
+REG252,49,605.06,11/02/2025,Tipo_A,36.21,Opción 1,valor,4,columna_sin_nombre
+REG253, 36 ,649.36,24-03-2025,Tipo A,62.22,,valor,1,columna_sin_nombre
+REG254,62,236.20,22-05-2025,TipoA,51.11,Opción 2,valor,3,columna_sin_nombre
+REG255,59,"320,07",25/11/2024,tipo a,49.07,,valor,1,columna_sin_nombre
+REG256,46,"961,52",2025/04/10,Tipo_A,52.29,,valor,1,columna_sin_nombre
+REG257,39,"840,16",2024/08/08,TipoA,37.39,,valor,4,columna_sin_nombre
+REG258,41,159.02,28-10-2024,Tipo_A,41.35,,valor,3,columna_sin_nombre
+REG259,54,156.50,2025/04/18,TIPO A,52.58,,valor,2,columna_sin_nombre
+REG260,38,"553,83",2025/01/25,Tipo A,39.8,,valor,3,columna_sin_nombre
+REG261,43,488.57,26/01/2025,Tipo_A,40.94,,valor,1,columna_sin_nombre
+REG262,68,866.92,2025/05/07,TIPO A,43.46,,valor,3,columna_sin_nombre
+REG263,65,"68,88",2024-08-25,Tipo A,48.65,,valor,4,columna_sin_nombre
+REG264,67,690.84,04/06/2025,tipo a,60.04,,valor,1,columna_sin_nombre
+REG265,41,533.29,15-02-2025,tipo a,59.53,Opción 1,valor,1,columna_sin_nombre
+REG266, 18 ,15.61,2025/01/21,Tipo A,55.13,,valor,4,columna_sin_nombre
+ID_001,40,"86,87",04-08-2024,TIPO A,71.09,,valor,3,columna_sin_nombre
+REG268,76,"684,93",16/02/2025,Tipo_A,57.85,Opción 2,valor,4,columna_sin_nombre
+REG269,64,"864,77",25/12/2024,TIPO A,50.6,,valor,1,columna_sin_nombre
+ID_001,38,421.96,2025-06-27,tipo a,46.58,,valor,4,columna_sin_nombre
+REG271,67,716.81,27/08/2024,Tipo_A,53.92,,valor,2,columna_sin_nombre
+REG272,73,63.79,2025-05-10,Tipo A,44.91,Opción 2,valor,3,columna_sin_nombre
+REG273,41,"13,78",2024-09-11,Tipo_A,47.27,,valor,4,columna_sin_nombre
+REG274,35,439.48,2025/04/07,Tipo_A,42.22,Opción 3,valor,1,columna_sin_nombre
+REG275,77,"706,82",2025-07-05,TipoA,48.31,Opción 3,valor,1,columna_sin_nombre
+REG276,38,638.00,18/04/2025,Tipo_A,51.99,,valor,4,columna_sin_nombre
+REG277,31,12.85,15/07/2025,TipoA,53.27,,valor,4,columna_sin_nombre
+REG278,39,681.04,2025-02-16,Tipo_A,53.0,,valor,1,columna_sin_nombre
+ID_001,45,207.22,18-11-2024,TIPO A,60.02,,valor,2,columna_sin_nombre
+REG280,63,911.96,2024/08/25,tipo a,55.17,,valor,4,columna_sin_nombre
+REG281,71,727.61,21/01/2025,Tipo A,60.54,,valor,3,columna_sin_nombre
+REG282, 71 ,772.46,2025-02-16,TipoA,42.77,,valor,1,columna_sin_nombre
+REG283,79,572.41,2025/03/15,TIPO A,56.7,,valor,3,columna_sin_nombre
+REG284,46,"254,14",2025/05/10,Tipo_A,56.77,,valor,1,columna_sin_nombre
+REG285,73,549.04,30/06/2025,Tipo A,56.62,,valor,3,columna_sin_nombre
+REG286,62,981.84,21-05-2025,Tipo_A,41.34,,valor,2,columna_sin_nombre
+REG287,41,"543,42",04/02/2025,tipo a,41.65,,valor,3,columna_sin_nombre
+ID_001,49,"682,82",07/10/2024,tipo a,70.9,Opción 3,valor,2,columna_sin_nombre
+REG289,23,"217,09",2025-02-17,TIPO A,54.48,,valor,3,columna_sin_nombre
+ID_001,77,714.61,30-08-2024,TipoA,53.71,,valor,2,columna_sin_nombre
+REG291,35,198.21,2025-05-30,tipo a,41.63,,valor,2,columna_sin_nombre
+REG292,25,"316,90",2025-06-19,TIPO A,65.83,,valor,4,columna_sin_nombre
+ID_001,26,"786,58",22/02/2025,TIPO A,50.6,Opción 3,valor,3,columna_sin_nombre
+REG294,61,"127,32",22-11-2024,TIPO A,36.77,,valor,3,columna_sin_nombre
+REG295,66,"99,81",2025-04-20,TIPO A,57.83,,valor,2,columna_sin_nombre
+REG296,21,903.21,03-04-2025,tipo a,35.6,,valor,1,columna_sin_nombre
+REG297,34,"682,75",2025-05-21,TIPO A,30.67,,valor,3,columna_sin_nombre
+REG298,64,"847,39",18-03-2025,tipo a,66.89,,valor,4,columna_sin_nombre
+REG299,58,"597,86",07/09/2024,TIPO A,23.96,,valor,2,columna_sin_nombre
+REG300,46,"658,10",2025/01/28,Tipo_A,51.99,Opción 2,valor,1,columna_sin_nombre

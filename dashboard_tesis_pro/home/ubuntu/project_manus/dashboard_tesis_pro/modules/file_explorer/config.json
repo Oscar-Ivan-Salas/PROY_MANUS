@@ -1,0 +1,39 @@
+{
+  "port": 8058,
+  "baseURL": "",
+  "address": "0.0.0.0",
+  "log": "stdout",
+  "database": "/home/ubuntu/project_manus/dashboard_tesis_pro/modules/file_explorer/filebrowser.db",
+  "root": "/home/ubuntu/project_manus/dashboard_tesis_pro/shared/data",
+  "username": "admin",
+  "password": "admin123",
+  "locale": "es",
+  "signup": false,
+  "createUserDir": false,
+  "defaults": {
+    "scope": ".",
+    "locale": "es",
+    "viewMode": "mosaic",
+    "darkMode": false,
+    "singleClick": false,
+    "checkboxes": true,
+    "dateFormat": false,
+    "disableExternal": false,
+    "disableUsedPercentage": false,
+    "enableThumbs": true,
+    "enableExec": false,
+    "hideDotfiles": false,
+    "hideSymlinks": false
+  },
+  "branding": {
+    "name": "Dashboard Tesis Pro - Explorador",
+    "files": "/home/ubuntu/project_manus/dashboard_tesis_pro/modules/file_explorer/custom",
+    "disableExternal": false,
+    "color": "#2196F3"
+  },
+  "commands": {
+    "after_upload": [],
+    "before_save": [],
+    "after_save": []
+  }
+}
